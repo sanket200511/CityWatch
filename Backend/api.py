@@ -15,7 +15,7 @@ from datetime import datetime
 from logic_core import CityWatchEngine
 
 # === CONFIGURATION ===
-BOT_TOKEN = "8189148302:AAG0xPiBm4r5_ieUVkIVSEa31RJS2bswIb4"
+BOT_TOKEN = "YOUR-BOT-TOKEN"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # Mock Zone Data
