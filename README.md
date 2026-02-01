@@ -9,12 +9,6 @@
 
 ---
 
-## 🎬 Demo
-
-![CityWatch Dashboard](alert_snapshot.jpg)
-
----
-
 ## ✨ Features
 
 ### 🎥 Real-Time Surveillance
