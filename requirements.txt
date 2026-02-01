@@ -1,0 +1,29 @@
+# CityWatch AI - Dependencies
+# Backend requirements for the surveillance system
+
+# Core Framework
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# AI/ML
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# API & Communication
+requests>=2.31.0
+
+# Optional - Uncomment if needed
+# mediapipe>=0.10.0
+# pandas>=2.0.0
+
+# =============================================
+# GPU Support (CUDA 12.1)
+# Run this separately:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# =============================================
