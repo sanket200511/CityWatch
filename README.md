@@ -103,7 +103,7 @@ CityWatch_Project/
 │       ├── App.jsx         # Main dashboard
 │       └── components/
 │           └── SafeRouteMap.jsx  # Safety navigation
-└── reference/              # Documentation
+
 ```
 
 ---
@@ -151,14 +151,7 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 
 ---
 
-## 📚 Documentation
 
-See the `/reference` folder:
-- [PROJECT_GUIDE.md](reference/PROJECT_GUIDE.md) - Complete guide
-- [TECHNICAL_DEEP_DIVE.md](reference/TECHNICAL_DEEP_DIVE.md) - Architecture details
-- [DEMO_SCRIPT.md](reference/DEMO_SCRIPT.md) - Presentation guide
-- [QA_DOCUMENT.md](reference/QA_DOCUMENT.md) - 75+ Q&A for defense
-- [DEPLOYMENT_GUIDE.md](reference/DEPLOYMENT_GUIDE.md) - Production deployment
 
 ---
 
